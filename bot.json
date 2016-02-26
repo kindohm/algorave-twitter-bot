@@ -23,7 +23,7 @@
 	"incode": [" ", " in #language# "],
 	"result":["#resultadj# #resultthing#"],
 	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "horrible", "auto-tuned", "resampled", "detuned", "nasty", "mediocre", "floor-clearing", "ravey", "harsh", "inaudible", "Japanese", "west-coast", "east-coast", "German", "London", "Detroit", "Latin", "Berlin-school", "Euclidean", "time-stretched", "very slow", "very fast"],
-	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb", "ring modulation", "frequency modulation", "noise", "reese bass", "dancing", "dancers", "infinite loops", "system crashes"]
+	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb", "ring modulation", "frequency modulation", "noise", "reese bass", "dancing", "dancing", "infinite loops", "system crashes"]
 }
 
 
