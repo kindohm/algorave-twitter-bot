@@ -1,1 +1,3 @@
-# algorave-twitter-bot
+# an algorave twitter bot
+
+under development
