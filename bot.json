@@ -1,24 +1,24 @@
 {
 	"origin": ["#structures#"],
-	"structures": ["#who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #thing3#", "#intro#, #who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #thing3#"],
+	"structures": ["#who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #result#", "#intro#, #who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #result#"],
+	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching"],
 	"who": ["algoravers", "algoravists", "live coders", "algorave artists", "algorave producers", "livecoding artists", "#language# livecoders"],
 	"frequency": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to", "have been known to"],
-	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching"],
 	"combine": ["combine", "add", "mix", "alter", "manipulate", "write"],
 	"and": ["and", "with", "&", "+"],
 	"thing1":["#adj# #thing#"],
 	"thing2":["#adj# #thing#"],
-	"thing3":["#resultadj# #resultthing#"],
 	"adj":["live", "live-coded", "improvised", "circuit-bent", "broken", "glitched", "chip-tune", "glitchy", "ambient", "analog", "multiplicative", "additive", "recursive", "generative"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation"],
 	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer"],
 	"thing":["code", "algorithms", "lambdas", "#datatype# data", "#algtype# algorithms", "functors", "functions", "loops", "visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "wireless keyboards", "#genre# vocal samples"],
-	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien"],
-	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies"],
 	"purpose": ["to create", "to make", "to generate", "to cause"],
 	"genre": ["techno", "gabba", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore"],
 	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs"],
-	"incode": [" ", " in #language# "]
+	"incode": [" ", " in #language# "],
+	"result":["#resultadj# #resultthing#"],
+	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien"],
+	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies"]
 }
 
 
