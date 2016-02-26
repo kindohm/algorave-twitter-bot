@@ -4,7 +4,7 @@
 	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching", "accidentally", "obviously"],
 	"who": ["algoravers", "algoravists", "live coders", "algorave artists", "algorave producers", "livecoding artists", "#language# livecoders"],
 	"frequency": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to", "have been known to", "will", "mostly", "definitely"],
-	"combine": ["combine", "add", "mix", "alter", "manipulate", "integrate", "mash up", "merge", "fuse", "smash together"],
+	"combine": ["combine", "add together", "mix", "alter", "manipulate", "integrate", "mash up", "merge", "fuse", "smash together"],
 	"and": ["and", "with", "&", "+"],
 	"thing1":["#adj# #thing#"],
 	"thing2":["#adj# #thing#"],
