@@ -14,7 +14,7 @@
 	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "#genre# vocal samples", "field recordings", "compression", "EQ", "envelopes", "LFOs", "patches", "eurorack modules", "boutique synths"],
 	"datathing":["#datatype# data", "#algtype# algorithms"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake", "non-deterministic", "stateless"],
-	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "no", "experimental", "falsey", "corrupt"],
+	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "no", "experimental", "corrupt"],
 	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to destroy", "to mess with"],
 	"genre": ["techno", "gabba", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco"],
 	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "css", "html"],
