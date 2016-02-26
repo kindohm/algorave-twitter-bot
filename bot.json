@@ -2,7 +2,7 @@
 	"origin": ["#structures#"],
 	"structures": ["#who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #result#", "#intro#, #who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #result#"],
 	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching", "accidentally", "obviously"],
-	"who": ["algoravers", "algoravists", "live coders", "algorave artists", "algorave producers", "livecoding artists", "#language# livecoders", "al gore"],
+	"who": ["algoravers", "algoravists", "live coders", "algorave artists", "algorave producers", "livecoding artists", "#language# livecoders"],
 	"frequency": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to", "have been known to", "will", "mostly", "definitely"],
 	"combine": ["combine", "add", "mix", "alter", "manipulate", "integrate", "mash up", "merge", "fuse", "smash together"],
 	"and": ["and", "with", "&", "+"],
@@ -10,19 +10,18 @@
 	"thing2":["#adj# #thing#"],
 	"adj":["live", "live-coded", "improvised", "circuit-bent", "broken", "irrational", "glitched", "chip-tune", "glitchy", "ambient", "analog", "multiplicative", "additive", "recursive", "generative"],
 	"thing":["#techthing#", "#datathing#", "#artthing#"],
-	"techthing":["code", "algorithms", "lambdas", "functors", "functions", "loops", "wireless keyboards"],
+	"techthing":["code", "algorithms", "lambdas", "functors", "functions", "loops", "wireless keyboards", "shell commands", "apps", "executables", "DLLs", "null pointers", "log output", "console output"],
 	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "#genre# vocal samples", "field recordings"],
 	"datathing":["#datatype# data", "#algtype# algorithms"],
-	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake"],
-	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "no"],
+	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake", "incomplete", "non-deterministic", "stateless"],
+	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "no", "experimental", "falsey", "corrupt"],
 	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to destroy", "to mess with"],
 	"genre": ["techno", "gabba", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz"],
 	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs"],
 	"incode": [" ", " in #language# "],
 	"result":["#resultadj# #resultthing#"],
-	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish"],
+	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro"],
 	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies"]
 }
-
 
 
