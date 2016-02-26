@@ -17,7 +17,7 @@
 	"datathing":["#datatype# data", "#algtype# algorithms"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake", "non-deterministic", "stateless", "flocking"],
 	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic", "random", "experimental", "corrupt"],
-	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to mess with", "to produce"],
+	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to mess with", "to produce", "to mangle"],
 	"genre": ["techno", "gabber", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco", "darkstep"],
 	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "CSS", "HTML", "XML", "XAML", "JSON", "Lisp"],
 	"incode": [" ", " in #language# "],
