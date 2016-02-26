@@ -1,3 +1,6 @@
-# an algorave twitter bot
+# @algoravers twitter bot
 
-"live coders often combine lambdas & EDM bass to generate visuals"
+Hosted at http://cheapbotsdonequick.com.
+
+"Emacs livecoders have been known to alter recursive EDM bass + multiplicative social data to cause amazing ambient melodies"
+
