@@ -16,12 +16,12 @@
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake", "incomplete", "non-deterministic", "stateless"],
 	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "no", "experimental", "falsey", "corrupt"],
 	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to destroy", "to mess with"],
-	"genre": ["techno", "gabba", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz"],
-	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs"],
+	"genre": ["techno", "gabba", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco"],
+	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "css", "html"],
 	"incode": [" ", " in #language# "],
 	"result":["#resultadj# #resultthing#"],
-	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro"],
-	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies"]
+	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "grinding"],
+	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb"]
 }
 
 
