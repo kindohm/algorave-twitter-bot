@@ -16,7 +16,7 @@
 	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "#genre# snares", "hoovers", "#genre# vocal samples", "field recordings", "compression", "EQ", "envelopes", "LFOs", "patches", "eurorack modules", "boutique synths", "pianos", "Instagrams", "cassette tapes", "jpegs", "gifs", "bitmaps", "MIDI Controllers"],
 	"datathing":["#datatype# data", "#algtype# algorithms"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake", "non-deterministic", "stateless", "flocking", "liturgic"],
-	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic", "random", "experimental", "corrupt", "Twitter", "Facebook", "quantum"],
+	"datatype": ["weather", "scientific", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic", "random", "experimental", "corrupt", "Twitter", "Facebook", "quantum"],
 	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to mess with", "to produce", "to mangle"],
 	"genre": ["techno", "gabber", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco", "darkstep", "techstep", "neurofunk"],
 	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "CSS", "HTML", "XML", "XAML", "JSON", "Lisp", "Erlang", "Elixir"],
