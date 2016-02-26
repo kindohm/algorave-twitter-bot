@@ -1,9 +1,9 @@
 {
 	"origin": ["#structures#"],
 	"structures": ["#who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #result#", "#intro#, #who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #result#"],
-	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching", "accidentally", "obviously", "apparently"],
+	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching", "accidentally", "obviously", "apparently", "surprisingly", "once per show", "to finish a show"],
 	"who": ["algoravers", "algoravists", "live coders", "algorave artists", "algorave producers", "livecoding artists", "#language# livecoders"],
-	"frequency": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to", "have been known to", "will", "mostly"],
+	"frequency": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to", "have been known to", "will", "mostly", "reluctantly"],
 	"combine": ["combine", "add together", "mix", "alter", "manipulate", "integrate", "mash up", "merge", "fuse", "smash together"],
 	"and": ["and", "with", "&", "+"],
 	"thing1":["#adj# #thing#"],
@@ -15,13 +15,13 @@
 	"datathing":["#datatype# data", "#algtype# algorithms"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake", "non-deterministic", "stateless", "flocking"],
 	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "experimental", "corrupt"],
-	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to destroy", "to mess with"],
+	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to mess with", "to produce"],
 	"genre": ["techno", "gabba", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco"],
 	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "css", "html"],
 	"incode": [" ", " in #language# "],
 	"result":["#resultadj# #resultthing#"],
-	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "grinding", "auto-tuned", "resampled", "detuned", "bad", "mediocre", "floor-clearing", "ravey"],
-	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb"]
+	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "grinding", "auto-tuned", "resampled", "detuned", "bad", "mediocre", "floor-clearing", "ravey", "harsh", "inaudible", "Japanese", "African", "west-coast", "east-coast", "German", "London", "Detroit", "Latin"],
+	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb", "ring modulation", "frequency modulation", "noise"]
 }
 
 
