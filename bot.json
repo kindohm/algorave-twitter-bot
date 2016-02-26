@@ -11,7 +11,7 @@
 	"adj":["live", "live-coded", "improvised", "circuit-bent", "broken", "irrational", "glitched", "chip-tune", "glitchy", "ambient", "analog", "multiplicative", "additive", "recursive", "generative"],
 	"thing":["#techthing#", "#datathing#", "#artthing#"],
 	"techthing":["code", "algorithms", "lambdas", "functors", "functions", "loops", "wireless keyboards"],
-	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "#genre# vocal samples"],
+	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "#genre# vocal samples", "field recordings"],
 	"datathing":["#datatype# data", "#algtype# algorithms"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational"],
 	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data"],
@@ -23,7 +23,6 @@
 	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish"],
 	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies"]
 }
-
 
 
 
