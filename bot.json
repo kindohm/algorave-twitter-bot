@@ -5,7 +5,7 @@
 	"tip":["tip", "trick", "pro-tip"],
 	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching", "accidentally", "obviously", "apparently", "surprisingly", "once per show", "to finish a show", "in the middle of a gig", "in the studio", "in greasy pubs", "in dance clubs", "in a room full of nerds", "by themselves", "at tech conferences", "during a presentation"],
 	"who": ["algoravers", "algoravists", "live coders", "algorave artists", "algorave producers", "livecoding artists", "#language# livecoders"],
-	"frequency": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to", "have been known to", "will", "mostly", "reluctantly"],
+	"frequency": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to", "have been known to", "will"],
 	"combine": ["combine", "add together", "mix", "alter", "manipulate", "integrate", "mash up", "merge", "fuse", "smash together", "sum", "combine", "modulate"],
 	"and": ["and", "with"],
 	"thing1":["#adj# #thing#"],
