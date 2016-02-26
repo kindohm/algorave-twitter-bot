@@ -10,7 +10,7 @@
 	"and": ["and", "with"],
 	"thing1":["#adj# #thing#"],
 	"thing2":["#adj# #thing#"],
-	"adj":["live-coded", "improvised", "circuit-bent", "broken", "glitched", "chip-tune", "glitchy", "ambient", "analog", "recursive", "generative", "digital", "modular", "some", "sparse", "a lot of", "attenuated", "amplified", "stolen", "Googled", "recycled", "corrupt", "decayed", "degenerating", "cyclical", "repetitive", "vintage", "antique", "historic"],
+	"adj":["live-coded", "improvised", "circuit-bent", "broken", "glitched", "chip-tune", "glitchy", "ambient", "analog", "recursive", "generative", "digital", "modular", "some", "sparse", "a lot of", "attenuated", "amplified", "stolen", "Googled", "recycled", "corrupt", "decayed", "cyclical", "repetitive", "vintage", "antique", "historic"],
 	"thing":["#techthing#", "#datathing#", "#artthing#"],
 	"techthing":["code", "algorithms", "lambdas", "functors", "functions", "loops", "wireless keyboards", "shell commands", "apps", "executables", "null pointers", "log output", "console output", "debian packages", "git repos", "unit tests", "Windows dlls", "dot matrix printers", "fax machines", "rotary phones", "lazers", "cell phone batteries", "academic papers", "RSS feeds", "Wikipedia articles"],
 	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "#genre# snares", "hoovers", "#genre# vocal samples", "field recordings", "compression", "EQ", "envelopes", "LFOs", "patches", "eurorack modules", "boutique synths", "pianos", "Instagrams", "cassette tapes", "jpegs", "gifs", "bitmaps"],
