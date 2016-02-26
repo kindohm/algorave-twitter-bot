@@ -1,16 +1,16 @@
 {
 	"origin": ["#structures#"],
 	"structures": ["#who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #result#", "#intro#, #who# #frequency# #combine# #thing1# #and# #thing2##incode##purpose# #result#", "#whosingle# #tip#: #combine# #thing1# #and# #thing2##incode##purpose# #result#"],
-	"whosingle": ["algoraver", "live coder", "live coding", "algorave", "algoravist", "algoraver", "newbie", "algo-newbie", "n00b live coder"],
+	"whosingle": ["algoraver", "live coder", "live coding", "algorave", "algoravist", "algoraver", "newbie", "livecode-newbie", "n00b live coder", "beginner livecoding"],
 	"tip":["tip", "trick", "pro-tip"],
-	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching", "accidentally", "obviously", "apparently", "surprisingly", "once per show", "to finish a show", "in the middle of a gig", "in the studio"],
+	"intro": ["typically", "occasionally", "rarely", "when necessary", "in a pinch", "on the fly", "under pressure", "while drunk", "when nobody's watching", "accidentally", "obviously", "apparently", "surprisingly", "once per show", "to finish a show", "in the middle of a gig", "in the studio", "in greasy pubs", "in dance clubs", "in a room full of nerds", "by themselves", "at tech conferences", "during a presentation"],
 	"who": ["algoravers", "algoravists", "live coders", "algorave artists", "algorave producers", "livecoding artists", "#language# livecoders"],
 	"frequency": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to", "have been known to", "will", "mostly", "reluctantly"],
 	"combine": ["combine", "add together", "mix", "alter", "manipulate", "integrate", "mash up", "merge", "fuse", "smash together"],
-	"and": ["and", "with", "&", "+"],
+	"and": ["and", "with"],
 	"thing1":["#adj# #thing#"],
 	"thing2":["#adj# #thing#"],
-	"adj":["live-coded", "improvised", "circuit-bent", "broken", "glitched", "chip-tune", "glitchy", "ambient", "analog", "multiplicative", "additive", "recursive", "generative", "digital", "modular", "some", "sparse", "a few", "a lot of", "attenuated", "amplified", "stolen", "Googled", "recycled", "corrupt", "decayed", "degenerating", "cyclical", "repetitive"],
+	"adj":["live-coded", "improvised", "circuit-bent", "broken", "glitched", "chip-tune", "glitchy", "ambient", "analog", "multiplicative", "additive", "recursive", "generative", "digital", "modular", "some", "sparse", "a lot of", "attenuated", "amplified", "stolen", "Googled", "recycled", "corrupt", "decayed", "degenerating", "cyclical", "repetitive"],
 	"thing":["#techthing#", "#datathing#", "#artthing#"],
 	"techthing":["code", "algorithms", "lambdas", "functors", "functions", "loops", "wireless keyboards", "shell commands", "apps", "executables", "null pointers", "log output", "console output", "debian packages", "git repos", "unit tests", "Windows dlls", "dot matrix printers", "fax machines", "rotary phones", "lazers", "cell phone batteries"],
 	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "#genre# vocal samples", "field recordings", "compression", "EQ", "envelopes", "LFOs", "patches", "eurorack modules", "boutique synths", "pianos", "dancers"],
@@ -23,7 +23,7 @@
 	"incode": [" ", " in #language# "],
 	"result":["#resultadj# #resultthing#"],
 	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "grinding", "auto-tuned", "resampled", "detuned", "bad", "mediocre", "floor-clearing", "ravey", "harsh", "inaudible", "Japanese", "African", "west-coast", "east-coast", "German", "London", "Detroit", "Latin"],
-	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb", "ring modulation", "frequency modulation", "noise"]
+	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb", "ring modulation", "frequency modulation", "noise", "reese bass"]
 }
 
 
