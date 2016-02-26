@@ -1,0 +1,15 @@
+{
+	"origin": ["#who# #freq# #combine# #thing1# #and# #thing2# #purpose# #thing3#"],
+	"who": ["algoravers", "algoravists", "algorithmic artists", "algo-musicians", "live coders"],
+	"freq": ["frequently", "often", "typically", "tend to", "sometimes", "occasionally", "like to"],
+	"combine": ["combine", "add", "mix", "alter", "manipulate", "invert", "reverse", "live-code"],
+	"and": ["and", "with", "&", "+"],
+	"thing1":["#adj# #thing#", "#thing#"],
+	"thing2":["#adj# #thing#", "#thing#"],
+	"thing3":["#adj# #resultthing#", "#resultthing#"],
+	"adj":["live", "live-coded", "improvised", "circuit-bent", "unrehearsed", "buggy", "glitched", "bit-crushed", "chip-tune"],
+	"thing":["code", "lambdas", "strobes", "algorithms", "functors", "loops", "conditions", "screens", "font-sizes", "visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers"],
+	"resultthing":["strobes", "loops", "screens", "visuals", "#genre# music", "#genre# beats", "#genre# synths", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats"],
+	"purpose": ["to create", "to make", "to prevent", "to generate"],
+	"genre": ["techno", "gabba", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house"]
+}
