@@ -11,7 +11,7 @@
 	"adj":["live", "live-coded", "improvised", "circuit-bent", "broken", "irrational", "glitched", "chip-tune", "glitchy", "ambient", "analog", "multiplicative", "additive", "recursive", "generative"],
 	"thing":["#techthing#", "#datathing#", "#artthing#"],
 	"techthing":["code", "algorithms", "lambdas", "functors", "functions", "loops", "wireless keyboards", "shell commands", "apps", "executables", "DLLs", "null pointers", "log output", "console output"],
-	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "#genre# vocal samples", "field recordings"],
+	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "#genre# vocal samples", "field recordings", "compression", "EQ", "envelopes", "LFOs", "patches"],
 	"datathing":["#datatype# data", "#algtype# algorithms"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake", "incomplete", "non-deterministic", "stateless"],
 	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "no", "experimental", "falsey", "corrupt"],
@@ -21,7 +21,7 @@
 	"incode": [" ", " in #language# "],
 	"result":["#resultadj# #resultthing#"],
 	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "grinding"],
-	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb"]
+	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb"]
 }
 
 
