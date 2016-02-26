@@ -8,13 +8,13 @@
 	"and": ["and", "with", "&", "+"],
 	"thing1":["#adj# #thing#"],
 	"thing2":["#adj# #thing#"],
-	"adj":["live-coded", "improvised", "circuit-bent", "broken", "glitched", "chip-tune", "glitchy", "ambient", "analog", "multiplicative", "additive", "recursive", "generative", "digital", "modular"],
+	"adj":["live-coded", "improvised", "circuit-bent", "broken", "glitched", "chip-tune", "glitchy", "ambient", "analog", "multiplicative", "additive", "recursive", "generative", "digital", "modular", "no", "some", "sparse", "too much"],
 	"thing":["#techthing#", "#datathing#", "#artthing#"],
 	"techthing":["code", "algorithms", "lambdas", "functors", "functions", "loops", "wireless keyboards", "shell commands", "apps", "executables", "DLLs", "null pointers", "log output", "console output"],
 	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "hoovers", "#genre# vocal samples", "field recordings", "compression", "EQ", "envelopes", "LFOs", "patches", "eurorack modules", "boutique synths"],
 	"datathing":["#datatype# data", "#algtype# algorithms"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "non-existent", "fake", "non-deterministic", "stateless"],
-	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "no", "experimental", "corrupt"],
+	"datatype": ["weather", "solar", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic data", "random", "experimental", "corrupt"],
 	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to destroy", "to mess with"],
 	"genre": ["techno", "gabba", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco"],
 	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "css", "html"],
@@ -23,5 +23,6 @@
 	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "grinding", "auto-tuned", "resampled", "detuned", "bad", "mediocre", "floor-clearing", "ravey"],
 	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb"]
 }
+
 
 
