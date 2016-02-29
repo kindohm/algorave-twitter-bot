@@ -19,7 +19,7 @@
 	"datatype": ["weather", "scientific", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic", "random", "experimental", "corrupt", "Twitter", "Facebook", "quantum"],
 	"purpose": ["to create", "to make", "to generate", "to cause", "to seed", "to mess with", "to produce", "to mangle", "to vary"],
 	"genre": ["techno", "gabber", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco", "darkstep", "techstep", "neurofunk"],
-	"language": ["Haskell", "Ruby", "Clojure", "Java", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "CSS", "HTML", "XML", "XAML", "JSON", "Lisp", "Erlang", "Elixir"],
+	"language": ["Haskell", "Ruby", "Clojure", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "CSS", "HTML", "XML", "XAML", "JSON", "Lisp", "Erlang", "Elixir"],
 	"incode": [" ", " in #language# "],
 	"result":["#resultadj# #resultthing#"],
 	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "natural-sounding", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "horrible", "auto-tuned", "resampled", "detuned", "nasty", "floor-clearing", "ravey", "harsh", "inaudible", "Japanese", "west-coast", "east-coast", "German", "London", "Detroit", "Latin", "Berlin-school", "Euclidean", "time-stretched", "very slow", "very fast"],
