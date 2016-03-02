@@ -14,19 +14,20 @@
 	"thing2":["#thing1#"],
 	"thing":["#codething#", "#datathing#", "#artthing#"],
 	"codething":["code", "algorithms", "lambdas", "promise-chains", "functors", "functions", "loops", "shell commands",  "null pointers", "log output", "console output", "debian packages", "git repos", "unit tests", "Windows dlls", "academic papers", "RSS feeds", "Wikipedia articles", "string concatenation", "recursion", "operating systems", "spreadsheets"],
-	"hardwarething":["Gameboys", "dot matrix printers", "rotary phones", "cell phone batteries"],
+	"hardwarething":["Gameboys", "dot matrix printers", "rotary phones", "CRT displays", "arduinos", "Raspberry Pis"],
 	"artthing":["visuals", "#genre# hi-hats", "#genre# samples", "#genre# beats", "#genre# synths", "#genre# bass", "#genre# kicks", "#genre# snares", "hoovers", "#genre# vocal samples", "field recordings", "envelopes", "LFOs", "eurorack modules", "boutique synths", "drum machines","pianos", "Instagrams", "cassette tapes", "jpegs", "gifs", "bitmaps", "MIDI Controllers"],
 	"datathing":["#datatype# data", "#algtype# algorithms"],
 	"algtype": ["math", "biologic", "meteorologic", "demographic", "political", "social", "economic", "gene-sorting", "statistical", "transportation", "computational", "fake", "non-deterministic", "stateless", "flocking", "liturgic"],
 	"datatype": ["weather", "scientific", "planetary", "demographic", "social", "sports", "crime", "heathcare", "medical", "consumer", "web site", "transportation", "climate change", "seismic", "random", "experimental", "corrupt", "Twitter", "Facebook", "quantum"],
 	"purpose": ["to create", "to make", "to generate", "to cause", "to produce", "to mangle", "to vary"],
 	"genre": ["techno", "gabber", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco", "darkstep", "techstep", "neurofunk"],
-	"language": ["Haskell", "Ruby", "Clojure", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs", "CSS", "HTML", "XML", "JSON", "Lisp", "Erlang", "Elixir"],
+	"language": ["Haskell", "Ruby", "Clojure", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Vim", "Emacs", "CSS", "HTML", "JSON", "Lisp", "Erlang", "Elixir"],
 	"incode": [" ", " in #language# "],
 	"result":["#resultadj# #resultthing#"],
 	"resultadj":["improvised", "glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "sick", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "horrible", "auto-tuned", "resampled", "detuned", "nasty", "floor-clearing", "ravey", "harsh", "inaudible", "Japanese", "west-coast", "east-coast", "German", "London", "Detroit", "Latin", "Berlin-school", "Euclidean", "time-stretched", "very slow", "very fast"],
 	"resultthing":["strobes", "visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb", "ring modulation", "frequency modulation", "noise", "reese bass", "dancing", "dancing", "infinite loops", "system crashes"]
 }
+
 
 
 
