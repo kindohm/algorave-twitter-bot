@@ -11,17 +11,17 @@
 	"and": ["and", "with"],
 	"thing1":["#adj# #thing#"],
 	"thing2":["#thing1#"],
-	"adj": ["improvised", "recursive", "untested", "dynamic", "pre-made", "pre-written", "random", "invalid", "buggy", "irrational",  "corrupt", "reversed", "undocumented", "refactored", "sparse", "some", "a few"],
-	"thing":["algorithms", "code", "Vim plugins", "Emacs packages", "variables", "functions", "code blocks", "numeric sequences", "linear equations", "quadratic equations", "equations", "rhythms", "arrays", "vectors", "null pointers", "errors", "git commits", "log files", "APIs", "#data#"],
-	"data": ["weather data", "seismic data", "demographic data"],
-	"purpose": ["to create", "to make", "to generate", "to cause", "to produce", "to mangle", "to vary", "while creating", "while making", "while generating"],
+	"adj": ["improvised", "recursive", "untested", "pre-made", "pre-written", "random", "invalid", "buggy",  "corrupt", "reversed", "undocumented", "refactored", "some", "a few", "large", "small"],
+	"thing":["algorithms", "code", "Vim plugins", "Emacs packages", "variables", "functions", "code blocks", "numeric sequences", "linear equations", "quadratic equations", "equations", "rhythms", "arrays", "vectors", "null pointers", "git commits",  "APIs", "#data#", "#data#", "lambdas", "database queries"],
+	"data": ["weather data", "seismic data", "demographic data", "image data"],
+	"purpose": ["to create", "to make", "to generate", "to cause", "to produce", "to vary", "while creating", "while making", "while generating", "which produces", "which makes", "which creates", "which causes"],
 	"result":["#resultadj# #resultthing#", "#resultadj# #resultthing# in #language#", "#resultadj# #resultthing# with #with#", "#resultadj# #resultthing# from #with#"],
 	"genre": ["techno", "gabber", "breakcore", "IDM", "EDM", "hip-hop", "acid", "house", "ambient", "drone", "jungle", "DnB", "happy hardcore", "jazz", "disco", "darkstep", "techstep", "neurofunk", "Detroit house", "rave", "trance", "hardcore"],
 	"resultadj":["glitchy", "broken", "glitched", "bit-crushed", "flanged", "chip-tune", "amazing", "dope", "epic", "massive", "stuttered", "algorithmic", "fresh", "mind-blowing", "alien", "rubbish", "awful", "nightmarish", "bizarre", "futuristic", "retro", "horrible", "auto-tuned", "resampled", "detuned", "nasty", "floor-clearing", "ravey", "harsh", "inaudible", "west-coast", "east-coast", "London-style", "Detroit-style", "Latin", "Berlin-school", "Euclidean", "time-stretched", "very slow", "very fast"],
 	"resultthing":["visuals", "time signatures", "polyrhythms", "#genre#", "#genre# beats", "#genre# synth lines", "#genre# bass lines", "#genre# kick drums", "hoovers", "#genre# hi-hats", "drops", "#genre# pads", "#genre# melodies", "reverb", "noise", "reese bass", "dancing", "dancing", "infinite loops", "system crashes", "808s"],
 	"language": ["Haskell", "Ruby", "Clojure", "JavaScript", "Lua", "c++", "sclang", "Groovy", "Scala", "Golang", "Rust", "Vim", "Emacs",  "Lisp", "Erlang", "Elixir"],
 	"with": ["#withadj# #withthing#"],
-	"withthing": ["Gameboys", "computers", "strobe lights", "wifi routers", "iMacs", "arduinos", "Raspberry Pis", "TR-909s", "Thinkpads", "Wii remotes", "Kinect sensors", "VR goggles", "graphics cards", "turntables"],
+	"withthing": ["Gameboys", "computers", "strobe lights", "wifi routers", "iMacs", "arduinos", "Raspberry Pis", "TR-909s", "Thinkpads", "Wii remotes", "Kinect sensors", "VR goggles", "graphics cards", "turntables", "Speak-n-Spells", "flip phones", "cassette tapes"],
 	"withadj": ["circuit-bent", "vintage", "old", "broken", "glitched", "dusty", "smoking", "thrift store", "used", "repaired", "refurbished"]
 }
 
